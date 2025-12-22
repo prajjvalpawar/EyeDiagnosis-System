@@ -48,4 +48,4 @@ Future Enhancements
 3. See the recommended doctors for each predicted disease.
 
 
-Created by: Prajjval Pawar | B.tec CSE, 2026
+Created by: Prajjval Pawar | B.Tech CSE, 2026
